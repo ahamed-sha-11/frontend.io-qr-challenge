@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](https://github.com/ahamed-sha-11/frontend.io-qr-challenge/blob/main/Frontend%20Mentor%20_%20QR%20code%20component-1.png)
+https://github.com/ahamed-sha-11/frontend.io-qr-challenge/blob/main/Frontend%20Mentor%20_%20QR%20code%20component-1.png
 
 
 
@@ -31,5 +31,5 @@ Responsive website designed with designing card design.
 
 
 - Frontend Mentor - [@ahamed-sha-11](https://www.frontendmentor.io/profile/ahamed-sha-11)
-- Twitter - [@yourusername](https://www.twitter.com/ahamed_sha_jr)
+- Twitter - [@ahamed_sha_jr](https://www.twitter.com/ahamed_sha_jr)
 
