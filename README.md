@@ -12,7 +12,7 @@ https://github.com/ahamed-sha-11/frontend.io-qr-challenge/blob/main/Frontend%20M
 
 ### Links
 
-- Solution URL:(https://your-solution-url.com)
+- Solution(https://github.com/ahamed-sha-11/frontend.io-qr-challenge)
 - Live Site URL:(https://ahamed-sha-11.github.io/frontend.io-qr-challenge/)
 
 
